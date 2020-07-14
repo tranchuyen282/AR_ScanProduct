@@ -1,0 +1,1 @@
+python YOLO2.py -i imgtest/7807_2.png -cl yolo.names -w yolov3.backup -c yolov3.cfg
